@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    
+    <string name="score_message">score:%d</string>
+    <string name="answer_message">please continue!</string>
+    <string name="equal_message" translatable="false">=</string>
+    <string name="question_mark" translatable="false">"?"</string>
+    <string name="button0" translatable="false">0</string>
+    <string name="button1" translatable="false">1</string>
+    <string name="button2" translatable="false">2</string>
+    <string name="button3" translatable="false">3</string>
+    <string name="button4" translatable="false">4</string>
+    <string name="button5" translatable="false">5</string>
+    <string name="button6" translatable="false">6</string>
+    <string name="button7" translatable="false">7</string>
+    <string name="button8" translatable="false">8</string>
+    <string name="button9" translatable="false">9</string>
+    <string name="buttonClear" translatable="false">C</string>
+    <string name="buttonOk" translatable="false">OK</string>
+
+    <string name="button_back">back</string>
+    <string name="button_start">start</string>
+    <string name="button_delete_data">delete data</string>
+
+    <string name="title_image_message" translatable="false">title image</string>
+    <string name="lose_image_message" translatable="false">lose image</string>
+    <string name="win_image_message" translatable="false">win image</string>
+
+
+    <string name="title_message">Calculator</string>
+    <string name="highest_score_message">highestScore:%d</string>
+
+    <string name="win_message">You Win!</string>
+    <string name="lose_message">You Lose!</string>
+
+    <string name="now_score">Your score is %d</string>
+    <string name="enter_answer_hint">Enter your answer!</string>
+
+    <string name="dialog_positive_message">Ok</string>
+    <string name="dialog_negative_message">Cancel</string>
+    <string name="dialog_title_message">Whether to exit?</string>
+    <string name="delete_data_message">Whether to clear data?</string>
+
+    <string name="question_toolbar_message">challenging</string>
+</resources>

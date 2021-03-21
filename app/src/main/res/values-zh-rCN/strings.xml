@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">口算</string>
+    <string name="button_back">返回</string>
+    <string name="button_start">开始</string>
+    <string name="button_delete_data">删除数据</string>
+    <string name="title_message">计算器</string>
+    <string name="highest_score_message">最高分：%d</string>
+    <string name="win_message">你赢了！</string>
+    <string name="lose_message">你输了！</string>
+    <string name="now_score">你的得分：%d</string>
+    <string name="enter_answer_hint">输入答案！</string>
+    <string name="dialog_positive_message">确定</string>
+    <string name="dialog_negative_message">取消</string>
+    <string name="dialog_title_message">是否退出？</string>
+    <string name="answer_message">请继续！</string>
+    <string name="score_message">得分：%d</string>
+    <string name="delete_data_message">是否删除数据</string>
+    <string name="question_toolbar_message">挑战中</string>
+</resources>
